@@ -5,3 +5,4 @@
 pip install turtle
 python main.py
 ```
+- Pueden crear un link en replit.com y enviarlo
